@@ -5,7 +5,7 @@
 - 📫 Email : surajbv5566@gmail.com
 - 📞 Phone : 8431348081
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am from Karnataka
+- ⚡ Fun fact: I am from #Karnataka
 
 <!---
 suraj-bv/suraj-bv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
