@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @suraj-bv
-- 👀 I’m interested in Machine learning and Full-stack web development
-- 🌱 I’m currently learning BE 3rd Year,
-- 💞️ I’m looking for a Internship
+- 👋 Hi, I’m @suraj-bv,
+- 👀 I’m interested in Machine learning and Full-stack web development,
+- 🌱 I’m currently persuing my BE 4th Year in Information science and engineering at Shridevi institute of engineering and technology, Tumkur,
+- 💞️ I’m looking for a Internship,
 - 📫 Email : surajbv5566@gmail.com
 - 📞 Phone : 8431348081
 - 😄 Pronouns: He/Him
