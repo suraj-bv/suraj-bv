@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, GenAI and DevOps**
 
-- 👨‍💻 I’m working on **AI-driven Criminal Face Recognition System** and exploring **Flask + React Integration**
+- 👨‍💻 I’m working on **AI-driven Criminal Face Recognition System**
 
 - 📄 Check out my resume - [My Resume](https://your-resume-link.com)
 
@@ -39,6 +39,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
