@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m working on **AI-driven Criminal Face Recognition System**
 
-- 📄 Check out my resume - [My Resume](https://drive.google.com/file/d/1OZgoVYPQaenjdHgUQErpT9LpmqwJDflQ/view?usp=sharing)
+- 📄 Check out my resume - [My Resume](https://drive.google.com/file/d/1OdJNuVq91EjFQcYi7GFTBGYsHoPg50cn/view?usp=sharing)
 
 - 💬 Ask me about **Web Development, Python, and AI Projects**
 
