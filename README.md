@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Suraj B V</h1>
-<h3 align="center">A passionate Web & AI developer from India 🇮🇳</h3>
+<h3 align="center">Software Engineer @ Clean Fanatics — React, React Native, Convex & Sanity CMS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-bv&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-bv" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, GenAI and DevOps**
+- 🔭 I'm building the customer-facing service platform and internal operations tools at **Clean Fanatics** — booking, wallet/referral, and partner-training systems.
 
-- 👨‍💻 I’m working on **AI-driven Criminal Face Recognition System**
+- 🌱 Background in Python, DSA, SQL, and REST APIs, with an interest in AI/ML.
 
 - 📄 Check out my resume - [My Resume](https://drive.google.com/file/d/1OdJNuVq91EjFQcYi7GFTBGYsHoPg50cn/view?usp=sharing)
 
-- 💬 Ask me about **Web Development, Python, and AI Projects**
+- 💬 Ask me about **React, React Native, Convex, and full-stack web development**
 
 - 📫 Reach me at **surajbv5566@gmail.com**
 
@@ -27,14 +27,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
@@ -46,5 +47,3 @@
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-
