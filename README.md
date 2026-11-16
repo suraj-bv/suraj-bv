@@ -17,17 +17,17 @@
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suraj-bv&theme=flat&no-frame=true&row=1&column=7" alt="suraj-bv" />
+  <img src="https://github-trophies.vercel.app/?username=suraj-bv&theme=flat&no-frame=true&row=1&column=7" alt="suraj-bv" />
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj-bv&show_icons=true&locale=en" alt="suraj-bv" />
+  <img src="https://github-readme-stats.shion.dev/api?username=suraj-bv&show_icons=true&locale=en" alt="suraj-bv" />
 </p>
 
 <h3 align="left">Streak Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-bv" alt="suraj-bv" />
+  <img src="https://streak-stats.demolab.com/?user=suraj-bv" alt="suraj-bv" />
 </p>
 
 ---
